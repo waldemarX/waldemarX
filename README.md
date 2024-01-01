@@ -35,8 +35,8 @@ My name is Vladimir Ermakov and welcome to my profile.
 
 ### :bar_chart: GitHub stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=waldemarX&count_private=true&show_icons=true&theme=dark)](https://github.com/waldemarX/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=waldemarX&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/waldemarX/github-readme-stats)
 
-![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=waldemarX&show_icons=true&theme=dark)
+![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=waldemarX&show_icons=true&theme=tokyonight)
 
 </div>
