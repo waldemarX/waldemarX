@@ -17,14 +17,14 @@ My name is Vladimir Ermakov and welcome to my profile.
 
 <h3>About me:</h3>
 
-- 💻 I'm studying back-end technologies on a Yandex course.
+- 💻 I'm studying back-end development on a Yandex course.
 - 🌱 Actual quest: absorb all the necessary knowledge and apply it in practice!
-- ⚒️ Current pet-project: nft marketplace
+- ⚒️ Current task -> learn web techonologies
       <a href="https://github.com/waldemarX/pet-nft-marketplace">
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="27">
       </a>
 - 🚀 Always open to new challenges and new horizons!
-- ❤️ I really love coding <3
+- ❤️ Coding <3
 
 <h3 align="center">📫 Get in touch:</h3>
 <div align="center">
