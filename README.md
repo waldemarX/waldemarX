@@ -20,7 +20,7 @@ My name is Vladimir and welcome to my profile.
 - 💻 Studying back-end development
 - 🌱 Actual quest: absorb all the necessary knowledge and apply it in practice!
 - ⚒️ Current task -> learn web techonologies
-      <a href="https://github.com/waldemarX/pet-nft-marketplace">
+      <a href="https://github.com/waldemarX/FastAPI-app">
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="27">
       </a>
 - 🚀 Always open to new challenges and new horizons!
