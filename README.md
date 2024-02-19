@@ -11,7 +11,6 @@
 </div>
 
 <h1>Hi there 👋🎉<br>
-My name is Vladimir and welcome to my profile.
 </h1><br>
 </div>
 
