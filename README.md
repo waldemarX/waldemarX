@@ -10,7 +10,7 @@
 </p>
 </div>
 
-<h1>Hi there 👋🎉<br>
+<h1>Hi there <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><br>
 </h1><br>
 </div>
 
